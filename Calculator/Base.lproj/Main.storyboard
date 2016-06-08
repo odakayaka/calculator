@@ -104,6 +104,9 @@
                                 <state key="normal" title="0">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
+                                <connections>
+                                    <action selector="select0" destination="BYZ-38-t0r" eventType="touchUpInside" id="KuT-DU-1kh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UQE-om-BeA">
                                 <rect key="frame" x="75" y="375" width="57" height="57"/>
